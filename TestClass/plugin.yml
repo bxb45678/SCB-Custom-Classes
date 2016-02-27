@@ -1,0 +1,4 @@
+name: ExampleClass
+main: FJI.plugins.TestClass.Main
+version: 1
+depend: [SuperCubeBros]
